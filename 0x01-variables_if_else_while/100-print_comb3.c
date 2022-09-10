@@ -2,9 +2,8 @@
 
 /**
  * main - Prints the numbers from 00 to 99, numbers separated by
- *         
- * Description: using the main function
- * this program prints "Programming is positive, zero, or negative
+ * a comma followed by a space, in ascending order        
+ * 
  * Return: Always 0.
  */
 int main(void)
@@ -27,7 +26,6 @@ int main(void)
 	}
 
 	putchar('\n');
-
 	return (0);
 }
 
