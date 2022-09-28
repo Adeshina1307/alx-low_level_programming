@@ -6,7 +6,7 @@
  * @accept: string to check against
  *
  * Return: number of bytes of s in accept
- * /
+ */
 unsigned int _strspn(char *s, char *accept)
 {
 	unsigned int i, j;
